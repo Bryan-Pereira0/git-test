@@ -1,3 +1,2 @@
 # git-test 
-My first Github repo!
-Hello Odin!
+Testing if I remember how to commit and add to git.
